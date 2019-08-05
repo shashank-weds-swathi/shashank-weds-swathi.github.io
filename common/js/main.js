@@ -44,7 +44,7 @@ $(document).ready(function() {
     			{ src: "images/portfolio_1.JPG" },
 				{ src: "images/portfolio_2.jpg" },
     			{ src: "images/portfolio_3.JPG" },
-    			{ src: "images/portfolio_4.JPG" },
+    			{ src: "images/portfolio_4.jpg" },
     			{ src: "images/portfolio_5.JPG" }
     		]
     	});
