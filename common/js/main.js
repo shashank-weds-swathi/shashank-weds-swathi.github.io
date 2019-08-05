@@ -41,11 +41,11 @@ $(document).ready(function() {
     		transition: 'fade2',
     		transitionDuration: 3000,
     		slides: [
-    			{ src: "images/portfolio_1.JPG" },
-				{ src: "images/portfolio_2.jpg" },
-    			{ src: "images/portfolio_3.JPG" },
+    			{ src: "images/portfolio_1.jpg" },
+			{ src: "images/portfolio_2.jpg" },
+    			{ src: "images/portfolio_3.jpg" },
     			{ src: "images/portfolio_4.jpg" },
-    			{ src: "images/portfolio_5.JPG" }
+    			{ src: "images/portfolio_5.jpg" }
     		]
     	});
     }
